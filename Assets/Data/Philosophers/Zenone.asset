@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc87b76d0a790b4d8ee8049ff752d09, type: 3}
+  m_Name: Zenone
+  m_EditorClassIdentifier: 
+  _id: zenone
+  _name: ZENON
+  _description: '
+
+    Zenon of Citium was an ancient Greek philosopher, born in
+    334 BC and died in 262 BC. He is primarily known as the founder of the philosophical
+    school of Stoicism. Zenon taught in Athens, where he opened his school in the
+    porch (Stoa in Greek, hence the name "Stoic"). The Stoics were followers of the
+    philosophical school founded by Zenon. They believed in reason as the guiding
+    force of the universe and the importance of living in accordance with nature.
+    The Stoics promoted virtue as the highest good and upheld the distinction between
+    what is under our control (our actions, attitudes, and opinions) and what is
+    not (external events and circumstances). The Stoics believed that achieving apathy,
+    or an undisturbed emotional equilibrium, was a desirable goal. Among the most
+    famous Stoics are Zenon himself, Epictetus, and Marcus Aurelius.'
+  _carouselImage: {fileID: -1171790437229086565, guid: 6cc137e9cb44f434abb31ba606a0cee4, type: 3}
+  _descriptionImage: {fileID: -5522983013973171831, guid: b9cb99e36abfd9b45afec92f607f6826, type: 3}
+  _dailyTasks:
+  - _tasks:
+    - _id: Zen11
+      _text: Today, when faced with a stressful or frustrating situation, try to
+        control your emotional reactions, aiming to remain calm and reflect before
+        acting.
+  - _tasks:
+    - _id: Zen21
+      _text: Think about a situation or problem you are facing. Analyze it rationally,
+        identifying which parts are beyond your control and focusing on those you
+        can actually influence.
+  - _tasks:
+    - _id: Zen31
+      _text: Before ending the day, take a few minutes to write in a journal three
+        things you are grateful for. This will help you focus on the positive and
+        develop an attitude of gratitude.
+  - _tasks:
+    - _id: Zen41
+      _text: 'If you face a difficult decision, use the Stoic technique of "viewing
+        from above": imagine observing the situation from an external perspective,
+        as if you were a neutral third-party observer, to gain a clearer and more
+        objective view.'
+  - _tasks:
+    - _id: Zen51
+      _text: Today, try to give up something you are attached to in order to practice
+        emotional detachment. It could be a material object, a habit, or even a personal
+        opinion.
+  - _tasks:
+    - _id: Zen61
+      _text: 'Pay attention to your interactions with others. When you find yourself
+        in conflict or disagreement, try to apply Stoic empathy: seek to understand
+        the other person''s reasons and see the situation from their point of view.'
+  - _tasks:
+    - _id: Zen71
+      _text: Choose a Stoic text or thought that inspires you and reflect on it.
+        Try to apply this teaching in your daily life, aiming to integrate it into
+        your behavior and decisions.
+  _weeklyQuestions:
+  - _id: Zen1
+    _text: 'When making a choice, do you consider yourself more rational or impulsive? '
+  - _id: Zen2
+    _text: 'Do events that happen to you influence your emotions? '
+  - _id: Zen3
+    _text: 'Are you usually upset about bad events that are not your fault? '
+  - _id: Zen4
+    _text: 'Do you fulfill your tasks as if they were obligations or your duties? '
+  - _id: Zen5
+    _text: 'In your small way, do you help the community somehow? '
+  - _id: Zen6
+    _text: 'Do you normally do things to gain others'' approval or for yourself? '

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc87b76d0a790b4d8ee8049ff752d09, type: 3}
+  m_Name: Pirrone
+  m_EditorClassIdentifier: 
+  _id: pirrone
+  _name: PYRRHO
+  _description: '
+
+    Pyrrho, also known as Pyrrho of Elis, was an ancient Greek
+    philosopher born around 360 BCE and is considered the founder of the skeptical
+    movement, known as Pyrrhonian skepticism. Pyrrho was a student of Anaxarchus
+    and traveled with Alexander the Great during his conquests.
+
+
+
+    The skeptics,
+    followers of skeptical doctrines, were a group of philosophers who developed
+    a philosophical perspective that questioned the possibility of attaining certain
+    knowledge on any subject. They emphasized the importance of suspending judgment
+    and seeking inner tranquility by abstaining from making judgments on controversial
+    matters. The skeptics did not believe in the possibility of arriving at an absolute
+    truth and argued that every argument had equally valid pros and cons.'
+  _carouselImage: {fileID: 4650459530972154250, guid: f86baff6edd56be41856adf7d3924dca, type: 3}
+  _descriptionImage: {fileID: 6575305669463342503, guid: c0bc9d9bca6d1e5449f558f577d2cc87, type: 3}
+  _dailyTasks:
+  - _tasks:
+    - _id: Pir11
+      _text: 'Today, when you read a news story, compare it with other sources, doubting
+        its reliability. '
+  - _tasks:
+    - _id: Pir21
+      _text: 'Pay attention to what you say, review it if you have time, and use
+        the highest vocabulary you can. '
+  - _tasks:
+    - _id: Pir31
+      _text: 'Tonight, before going to bed, think about what happened and what you
+        could have done better. '
+  - _tasks:
+    - _id: Pir41
+      _text: 'If you find yourself in a discussion, try to see it from the other
+        person''s perspective and think about what you might have gotten wrong. '
+  - _tasks:
+    - _id: Pir51
+      _text: 'Try something you thought you wouldn''t like. It could be a music genre,
+        an activity you find strange, a game you don''t think you''ll enjoy, etc. '
+  - _tasks:
+    - _id: Pir61
+      _text: 'Pay attention to what others say. Think about what you could do better
+        in their place. '
+  - _tasks:
+    - _id: Pir71
+      _text: 'Choose a topic that interests you, consult many sources, and try to
+        form an original opinion on it. '
+  _weeklyQuestions:
+  - _id: Pir1
+    _text: 'What tells us that the information we read today is truly reliable? '
+  - _id: Pir2
+    _text: 'How can we be sure of our personal convictions if we don''t examine the
+      reasons supporting them? '
+  - _id: Pir3
+    _text: 'Is it possible to achieve true happiness by questioning everything we
+      know? '
+  - _id: Pir4
+    _text: 'To what extent do our language and words influence our judgment and perception
+      of the world? '
+  - _id: Pir5
+    _text: 'What are the most convincing arguments you have encountered against your
+      most deep-seated beliefs? '
+  - _id: Pir6
+    _text: 'How can we know if we are correctly interpreting someone else''s point
+      of view during a discussion? '

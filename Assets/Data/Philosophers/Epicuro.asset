@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc87b76d0a790b4d8ee8049ff752d09, type: 3}
+  m_Name: Epicuro
+  m_EditorClassIdentifier: 
+  _id: epicuro
+  _name: EPICURUS
+  _description: '
+
+    Epicurus was an ancient Greek philosopher born on the island
+    of Samos in 341 BC and died in 270 BC. He is the founder of the philosophical
+    school of Epicureanism. Central to Epicurean philosophy is the "tetrapharmakos,"
+    a four-part remedy leading to happiness by achieving ataraxia (serenity of the
+    soul) and aponia (absence of physical pain). Epicurus taught that to attain these
+    states, one must overcome the fear of gods, the fear of death, and the fear of
+    physical pain, and should liberate oneself from unnecessary desires. Despite
+    some of his ideas seeming outdated, like the fear of gods, the principle of a
+    simple and sober life for happiness remains relevant. Therefore, we propose a
+    journey inspired by the tetrapharmakos, emphasizing essential natural goods (food,
+    water, air, clothes, shelter), necessary non-natural goods (houses, cooking tools,
+    utensils), and avoiding unnecessary and non-natural goods (luxury items).
+
+
+
+    The
+    Epicureans were the followers of Epicurus and his teachings. The Epicurean school
+    concentrated on ethics, maintaining that the ultimate goal of human life was
+    happiness, which was to be achieved through the pursuit of reasonable pleasure
+    and the minimization of pain. The Epicureans also believed in ataraxia, which
+    means tranquility of the soul, and held that this could be achieved through the
+    elimination of fears and excessive desires.'
+  _carouselImage: {fileID: -5153523313097400493, guid: c1059109c95851d47827085b58ec2b74, type: 3}
+  _descriptionImage: {fileID: 6602444991932504191, guid: fdb20adcd8825eb4584b44e375a2247a, type: 3}
+  _dailyTasks:
+  - _tasks:
+    - _id: Ep11
+      _text: Answer the weekly questions to clarify your thoughts regarding the topics
+        you are about to tackle.
+  - _tasks:
+    - _id: Ep21
+      _text: 'Divide your possessions according to the following advice: Examine
+        the object and ask yourself: Is it essential for my survival and well-being?
+        For example, a pair of shoes is a necessary non-natural good, while a new
+        fashionable pair falls into the category of unnecessary and non-natural goods.
+        Remember to fulfill essential needs first and then non-essential ones. Reflect
+        on your needs and desires. Is the object you desire truly necessary for your
+        well-being, or is it just a momentary desire you can do without? '
+  - _tasks:
+    - _id: Ep31
+      _text: "Contact a friend you haven\u2019t heard from in a long time and wish
+        to reconnect with."
+    - _id: Ep32
+      _text: 'If the opportunity arises, try to make new friends. '
+  - _tasks:
+    - _id: Ep41
+      _text: "Work on your self-esteem. Accept yourself for who you are, with your
+        qualities and flaws. Remember that others' judgments often reflect more on
+        them than on you. To avoid being influenced by others, you must first be
+        sure of yourself. You might post a photo of yourself on social media without
+        overthinking or finding too many flaws in it. Remember that others' judgment
+        is often temporary and influenced by their personal experiences. Don\u2019t
+        let others' judgments define or influence your decisions. "
+  - _tasks:
+    - _id: Ep51
+      _text: "Confront the fear of death. As Epicurus asserts, death cannot truly
+        be encountered: if there is death, we are not; if we are, death is not. Additionally,
+        it is impossible to know what comes after death, so we cannot define it as
+        something to fear if we don\u2019t even know it. Therefore, we should try
+        to accept our mortality and live life to the fullest."
+  - _tasks:
+    - _id: Ep61
+      _text: 'Educate yourself about pain, understand its causes and treatments to
+        demystify the experience and reduce the anxiety associated with it. Epicurus
+        encouraged careful reflection on the sources of pain. Understanding that
+        many fears stem from irrational anxieties or excessive worries can help reduce
+        anxiety associated with pain. Remember that pain, sooner or later, is something
+        temporary destined to pass: after overcoming pain, one feels significantly
+        happier and relieved. If the pain leads to death, remember that after this,
+        all suffering will have ended. '
+  - _tasks:
+    - _id: Ep71
+      _text: Recap the previous days by revisiting the questions asked at the beginning
+        of the week to understand if the advice given over the past days has helped
+        you grow internally.
+  _weeklyQuestions:
+  - _id: Ep1
+    _text: Do you consider yourself happy?
+  - _id: Ep2
+    _text: 'Do you consider yourself friendly or sociable? '
+  - _id: Ep3
+    _text: 'Do you have difficulty maintaining stable interpersonal relationships? '
+  - _id: Ep4
+    _text: Do you spend a lot of money on unnecessary goods?
+  - _id: Ep5
+    _text: 'Are you afraid of death? '
+  - _id: Ep6
+    _text: 'Do you panic at the slightest discomfort? '

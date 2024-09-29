@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc87b76d0a790b4d8ee8049ff752d09, type: 3}
+  m_Name: Pitagora
+  m_EditorClassIdentifier: 
+  _id: pitagora
+  _name: PYTHAGORAS
+  _description: '
+
+    Pythagoras was a philosopher, mathematician, and mystic of
+    ancient Greece, born around 570 B.C. in the Greek colony of Samos, in present-day
+    Turkey, and died around 495 B.C. in Metapontum, Italy. He is famous for his significant
+    contributions to mathematics, philosophy, and religion.
+
+
+
+    The Pythagoreans
+    were the followers and students of Pythagoras. They formed a philosophical school
+    dedicated to the study of natural sciences, mathematics, music, and moral philosophy.
+    The Pythagoreans placed great importance on mathematics and believed that mathematical
+    principles were the key to understanding the universe. Their school was based
+    on principles of community, sharing ideas and resources among the members of
+    the sect. Some of the main contributions of the Pythagoreans include the Pythagorean
+    theorem in geometry, the discovery of musical proportions, and the theory of
+    immortal souls.'
+  _carouselImage: {fileID: 2655886358989603582, guid: e9a8fe7990bb0c545bac62bca4f8815a, type: 3}
+  _descriptionImage: {fileID: 6688613241216159637, guid: 9e651564fa5dd714da9ece4e607f142b, type: 3}
+  _dailyTasks:
+  - _tasks:
+    - _id: Pit11
+      _text: 'When you wake up, straighten the sheets and make the bed. '
+    - _id: Pit12
+      _text: 'Avoid sugary foods. '
+  - _tasks:
+    - _id: Pit21
+      _text: 'Do not dwell on past events. '
+    - _id: Pit22
+      _text: 'Avoid looking at your phone or computer screen before going to bed. '
+  - _tasks:
+    - _id: Pit31
+      _text: 'Avoid harming insects. '
+    - _id: Pit32
+      _text: 'When you finish cooking, clean the stove thoroughly and do not leave
+        any burnt food residue. '
+  - _tasks:
+    - _id: Pit41
+      _text: 'Practice sharing food and do not waste it. '
+    - _id: Pit42
+      _text: 'Try to protect the environment and do not disturb the nesting birds
+        around your house. '
+  - _tasks:
+    - _id: Pit51
+      _text: Respect safety limits, avoid crossing busy roads without due care and
+        attention
+    - _id: Pit52
+      _text: 'Use alternative transportation, such as a bicycle or public transport,
+        instead of driving a car. '
+  - _tasks:
+    - _id: Pit61
+      _text: 'Avoid "fanning the flames to feed the fire." '
+    - _id: Pit62
+      _text: 'Be aware of the environmental impact of your actions and reduce the
+        consumption of non-renewable resources. '
+  - _tasks:
+    - _id: Pit71
+      _text: 'Do not overeat, try to maintain a balanced and moderate diet. '
+    - _id: Pit72
+      _text: 'Respect the environment and do not harm nature, avoid picking wildflowers
+        or plants without good reason. '
+    - _id: Pit73
+      _text: Choose carefully where and how you sit, minimising damage to furniture
+        or structures.
+  _weeklyQuestions:
+  - _id: Pit1
+    _text: 'Would you be able to replicate this week? '
+  - _id: Pit2
+    _text: 'At first glance, at the end of this journey, did you find it easy or
+      difficult to face this week? '
+  - _id: Pit3
+    _text: Will you adopt any of the suggested actions in your day-to-day life?
+  - _id: Pit4
+    _text: 'What do you think will be/was the most challenging task? '
