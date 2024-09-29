@@ -1,4 +1,5 @@
 # Philosomeet
+<img src="https://github.com/user-attachments/assets/907da4e3-405c-42c3-ac8d-83e80e067c9f" alt="Logo" width="300"/>
 
 **Philosomeet** is a web app designed for smartphones that guides users through a series of daily tasks inspired by the teachings of ancient Greek philosophers, adapted for modern life.
 
@@ -18,7 +19,7 @@ By swiping on the screen, you can navigate from one philosopher to another and d
 
 ## Future development
 
-We are willing to include an **"oracle"** using artificial intelligence through OpenAI or Gemini API.
+We are willing to include an **oracle** using artificial intelligence through OpenAI or Gemini API.
 
 ---
 
